@@ -6,7 +6,7 @@
 ![Figma](https://img.shields.io/badge/Design-Figma-red?style=flat-square&logo=figma&logoColor=white)  
 ![Supabase](https://img.shields.io/badge/Supabase-Authentication-brightgreen?style=flat-square&logo=supabase)
 
-**Alexa Controller App** is a proprietary, cross-platform mobile application developed by **Acumensa**, designed to enhance IoT device integration. 🌐 This app bridges the gap between the **My Wonder Pod** and your smartphone, delivering powerful features through **state-of-the-art Flutter technology**.
+**Alexa Controller App** is a proprietary, cross-platform mobile application developed by **Arya**, designed to enhance IoT device integration. 🌐 This app bridges the gap between the **Alexa Pod** and your smartphone, delivering powerful features through **state-of-the-art Flutter technology**.
 
 ---  
 
@@ -52,11 +52,6 @@ Ensure the following are installed on your system:
 ### Installation
 
 1. **Clone the Repository**:
-   ```bash  
-   git clone https://github.com/acumensa/my-wonder-app.git  
-   cd my-wonder-app  
-   ```  
-
 2. **Install Dependencies**:
    ```bash  
    flutter pub get  
@@ -114,17 +109,11 @@ lib/
 
 ---  
 
-## 🌐 Acumensa
-
-This application is an intellectual property of **Acumensa** and is not open-source. Unauthorized duplication, sharing, or modification is prohibited.
-
----  
-
 ### 👥 Contributors
 
 - **Project Owner**: Acumensa Team
-- **Lead Developer**: Arya Pratap Singh | [Working Branch](https://github.com/AcumensaDev/MyWonderApp/tree/latest-release)
+- **Lead Developer**: Arya Pratap Singh 
 
 ---  
 
-Made with 💙 by **Acumensa**.  
+Made with 💙 
