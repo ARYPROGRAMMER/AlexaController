@@ -1,0 +1,77 @@
+name: wonder_pod
+description: "My Wonder Client Usage App"
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  flutter_bloc: ^8.1.6
+  dartz: ^0.10.1
+  hydrated_bloc: ^9.1.5
+  get_it: ^8.0.2
+  path_provider: ^2.1.5
+  dotenv: ^4.2.0
+  go_router: ^14.6.1
+  flutter_otp_text_field: ^1.2.0
+  intl_phone_field: ^3.2.0
+  flutter_onboarding_slider: ^1.0.11
+  flutter_svg: ^2.0.16
+  dio: ^5.7.0
+  flutter_dotenv: ^5.2.1
+  network_info_plus: ^6.1.1
+  permission_handler: ^11.3.1
+  open_settings_plus: ^0.3.3
+  webview_flutter: ^4.10.0
+  sms_autofill: ^2.4.1
+  otp_autofill: ^4.1.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  wifi_iot: ^0.3.19+1
+  flutter_sound: ^9.11.2
+  bloc: ^8.1.4
+  equatable: ^2.0.7
+  lottie: ^3.1.3
+  pinput: ^5.0.0
+  validators: ^3.0.0
+  fluttertoast: ^8.2.8
+  wave: ^0.2.2
+  flutter_audio_waveforms: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  build_runner: ^2.4.13
+  hive_generator: ^2.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/animations/
+    - assets/vectors/
+    - assets/images/
+    - .env #Uncomment when running
+
+  fonts:
+    - family: Avenir
+      fonts:
+        - asset: assets/fonts/avenir-font/AvenirLTStd-Light.otf
+        - asset: assets/fonts/avenir-font/AvenirLTStd-Black.otf
+        - asset: assets/fonts/avenir-font/AvenirLTStd-Medium.otf
+        - asset: assets/fonts/avenir-font/AvenirLTStd-Book.otf
+        - asset: assets/fonts/avenir-font/AvenirLTStd-Heavy.otf
+
+        
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
