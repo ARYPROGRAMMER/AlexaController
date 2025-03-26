@@ -1,4 +1,4 @@
-# 🌟 My Wonder App
+# 🌟 Alexa Controller App
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.4.4-blue?style=flat-square&logo=flutter&logoColor=white)  
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)  
@@ -6,7 +6,7 @@
 ![Figma](https://img.shields.io/badge/Design-Figma-red?style=flat-square&logo=figma&logoColor=white)  
 ![Supabase](https://img.shields.io/badge/Supabase-Authentication-brightgreen?style=flat-square&logo=supabase)
 
-**My Wonder App** is a proprietary, cross-platform mobile application developed by **Acumensa**, designed to enhance IoT device integration. 🌐 This app bridges the gap between the **My Wonder Pod** and your smartphone, delivering powerful features through **state-of-the-art Flutter technology**.
+**Alexa Controller App** is a proprietary, cross-platform mobile application developed by **Acumensa**, designed to enhance IoT device integration. 🌐 This app bridges the gap between the **My Wonder Pod** and your smartphone, delivering powerful features through **state-of-the-art Flutter technology**.
 
 ---  
 
